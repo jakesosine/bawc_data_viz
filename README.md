@@ -1,4 +1,4 @@
-# bawc_data_viz
+# Behavior Analysts Who Code Data Viz Notebook
 ### Link to interactive Graph
 1. [Project Description](https://peaceful-baklava-eaba61.netlify.app/#apps)
 2. [Link to Graph](https://peaceful-baklava-eaba61.netlify.app/html/journal_viz.html)
@@ -11,5 +11,5 @@ How to run the notebook
 - Change the filename in the notebook
 - Run all
 
-Behavior Analysts Who Code Data Viz Notebook
+
 ![Articles from Behavior Analytic Journals](./script/plot.png?raw=true)
