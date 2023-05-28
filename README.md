@@ -1,4 +1,5 @@
 # Behavior Analysts Who Code Data Viz Notebook
+# Top 3 Submission
 ### Link to interactive Graph
 1. [Project Description](https://peaceful-baklava-eaba61.netlify.app/#apps)
 2. [Link to Graph](https://peaceful-baklava-eaba61.netlify.app/html/journal_viz.html)
